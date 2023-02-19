@@ -1,0 +1,17 @@
+//Ejercio2JS
+if (true) {
+    console.log("desarrolador")
+    }
+    else {
+        console.log("no desarrolador")
+    }
+
+const libro = {
+    titulo : "el hombre mediocre",
+    autor : "José Ingenieros",
+    fecha : 1910,
+    url : "www.hombremediocre.com"
+}
+const lista = ["leo", 33, true, "march 19 1989", libro]
+
+console.log (lista)
